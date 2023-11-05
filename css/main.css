@@ -3,5 +3,6 @@ body{
   color:skyblue;
   font-size:15px;
   padding:20px;
-  margin:30px;
+  margin-top:10px;
+  font-style:italic;
 }
